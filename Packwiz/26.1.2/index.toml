@@ -142,7 +142,7 @@ hash = "7ee37319d654f78c7fce71513056d0058bb7556c6c63dbb2f0cee4d76c283c50"
 
 [[files]]
 file = "config/modpack_defaults/config/lambdynlights.toml"
-hash = "326ec0c840e65aedf5c6048ea6016d551be38cf23f692949e105a4a388ad8be7"
+hash = "612485fe224f1d80945ed291d1a98f0be25fb786c9057948fc6d699a8f7fbc91"
 
 [[files]]
 file = "config/modpack_defaults/config/midnightlib.json"
@@ -372,6 +372,11 @@ hash = "c2854d7400c6edd17464bbd8ffe895f97eea4a2b0ba4a7bb254e5991f1063553"
 metafile = true
 
 [[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "a2e9d2e08cb39c159b50ab8a0a2c38896700f7ab66a7682d691dd91628b4b34d"
+metafile = true
+
+[[files]]
 file = "mods/skyboxify.pw.toml"
 hash = "6c4a9cd980664a68cb1c7b85b1c69f572bc991e83e3343c9c350dd4319420744"
 metafile = true
@@ -389,6 +394,21 @@ metafile = true
 [[files]]
 file = "mods/sspb.pw.toml"
 hash = "58f1b88d724a30d10359c9ac9febdef6dabbcfec39bcee4476c1e65b7ace807d"
+metafile = true
+
+[[files]]
+file = "mods/voxy.pw.toml"
+hash = "265c2a4cb987474f6c893adc5bf5b14ba6756bbed5fc56dfb5e29649062a84a1"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "f69228cef8adb3becb463aa2ed728998487fc947d79a3d0e47b8c47c964ce589"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "86237b7e69781303d17f0359da7e79821e1cd86472ebee91b3c0bd8d1abb467e"
 metafile = true
 
 [[files]]

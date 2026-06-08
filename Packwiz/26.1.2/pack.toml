@@ -1,12 +1,12 @@
-name = "Fabulously Optimized"
-author = "robotkoer"
-version = "13.2.1"
+name = "Fabulous Voxy Voice"
+author = "robotkoer, Json17"
+version = "1.0.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "1e02447240518a43cbcdf0f3f363a350550a65bf115a4a023764abe679e7cae1"
+hash = "f908a73b5926748265b20bcc6488ea0e7f44bff6a54497f7ed5568d15e7a230e"
 
 [versions]
 fabric = "0.19.3"
