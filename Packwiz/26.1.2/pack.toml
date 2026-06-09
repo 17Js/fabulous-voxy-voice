@@ -1,12 +1,12 @@
 name = "Fabulous Voxy Voice"
 author = "robotkoer, Json17"
-version = "1.0.1"
+version = "1.0.2"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "86353693fdb4d4310820f8b9228c2935aa1239c42df38a928729c10b28fc0c9b"
+hash = "e42690a6152ae1e999ab716fe73c9c6e0194e19ce078006e68ab3614a807206a"
 
 [versions]
 fabric = "0.19.3"
